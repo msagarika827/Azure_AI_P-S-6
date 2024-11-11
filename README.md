@@ -47,9 +47,3 @@ This repository contains projects completed for Azure AI Labs, focusing on image
      ```bash
      python text_analytics.py
      ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This template provides a structured overview and setup instructions, making it easy for others to understand and use your project. You can further customize it based on additional details from your project. Let me know if you’d like more sections or details!
